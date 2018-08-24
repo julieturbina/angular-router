@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^6.1.0",
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.2",
-    "@types/underscore": "^1.8.8",
+    "@types/underscore": "^1.8.9",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
     "underscore": "^1.9.1",
